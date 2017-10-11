@@ -3,6 +3,7 @@ class Owner
 
   @@owners = []
 
+  attr_accessor :name
   attr_reader :species
 
   def initialize(species)
@@ -35,3 +36,4 @@ end
 # Owner instance methods #species initializes with a species
 # Owner instance methods #species can't change its species
 # Owner instance methods #say_species  can say its species
+# Owner instance methods #name can have a name
