@@ -40,7 +40,7 @@ class Owner
   #   pets[:dogs] << Dog.new(name)
   # end
 
-  
+
 
 end
 
@@ -59,4 +59,5 @@ end
 # Owner instance methods #buy_fish can buy a fish that is an instance of the Fish class
 # Owner instance methods #buy_cat can buy a cat that is an instance of the Cat class
 # Owner instance methods #buy_cat knows about its cats
-
+# Owner instance methods #buy_dog can buy a dog that is an instance of the Dog class
+# Owner instance methods #buy_dog knows about its dogs
