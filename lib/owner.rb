@@ -28,7 +28,11 @@ class Owner
   end
 
   def pets
-    {:fishes => [], :dogs => [], :cats => []}
+    { :fishes => [], :dogs => [], :cats => [] }
+  end
+
+  def buy_fish(name)
+    
   end
 
 end
@@ -42,3 +46,4 @@ end
 # Owner instance methods #say_species  can say its species
 # Owner instance methods #name can have a name
 # Owner instance methods #pets is initialized with a pets attribute as a hash with 3 keys
+# Owner instance methods #buy_fish can buy a fish that is an instance of the Fish class
