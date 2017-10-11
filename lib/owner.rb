@@ -89,3 +89,6 @@ end
 # Owner instance methods #walk_dogs walks the dogs which makes the dogs' moods happy
 # Owner instance methods #play_with_cats plays with the cats which makes the cats moods happy
 # Owner instance methods #feed_fish feeds the fishes which makes the fishes' moods happy
+
+# Owner instance methods #sell_pets can sell all its pets, which make them nervous
+# Owner instance methods #list_pets can list off its pets
