@@ -66,3 +66,5 @@ end
 # Owner instance methods #buy_dog can buy a dog that is an instance of the Dog class
 # Owner instance methods #buy_dog knows about its dogs
 # Owner instance methods #walk_dogs walks the dogs which makes the dogs' moods happy
+# Owner instance methods #play_with_cats plays with the cats which makes the cats moods happy
+# Owner instance methods #feed_fish feeds the fishes which makes the fishes' moods happy
