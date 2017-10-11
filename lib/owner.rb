@@ -41,3 +41,4 @@ end
 # Owner instance methods #species can't change its species
 # Owner instance methods #say_species  can say its species
 # Owner instance methods #name can have a name
+# Owner instance methods #pets is initialized with a pets attribute as a hash with 3 keys
